@@ -128,3 +128,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Google Cloud API service account
+easy-as-py-service-account.json
