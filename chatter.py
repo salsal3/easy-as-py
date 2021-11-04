@@ -20,7 +20,7 @@ def chatter(npc_chatter):
         secs = float(secs)
         time.sleep(secs)
     print()
-    time.sleep(2)
+    time.sleep(1)
 # `secs`: time between when characters print. '0.01' = 10 milliseconds.
 # `str(randrange(10, 20, 1)`: adds an integer to `secs`, randomly chosen from the specified range.
 # `randrange(start, stop, step)`:
@@ -52,5 +52,4 @@ if chatter_io.lower() == 'y':
         print(npc_chatter)
     chatter('Chatter is disabled.')
 else:
-    from chatter import chatter
-    chatter('Chatter is enabled.')
+    pass
