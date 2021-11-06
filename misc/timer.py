@@ -10,8 +10,8 @@ window.tracer(0)
 player = turtle.Turtle()
 timer_text = turtle.Turtle()
 
-minutes = 0
-seconds = 3
+minutes = 10
+seconds = 0
 
 start = time.time()
 while time.time() - start < 60 * minutes + seconds:
