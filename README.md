@@ -1,4 +1,6 @@
 # Easy as Py
+#### *By Salvador V Salazar III*
+
 ## Summary
 [*[Link to Slides]*](https://docs.google.com/presentation/d/18WftjmY6pD-M778Lg4Dmq68M4Q8qgUFw_cvF4_705j4/edit?usp=sharing)
 
